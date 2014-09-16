@@ -3,7 +3,8 @@ wikileaks-spyfiles4-customers
 
 FinFisher Customers Analisys
 
-Total licenses price: 98'362'554
+Total licenses price: 98'362'554 Euro
+
 
 ## The data
 Feel free to perform your own calculations using the scripts available in this repository. For your convenience we performed a stripdown of the data resulting in the following summary.
