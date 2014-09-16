@@ -782,4 +782,4 @@ DAF42FBC||FinFly Web||36600
 DAF42FBC||FinUSB Suite||13080
 DAF42FBC||FinFly USB||4620
 
-Thanks to Wikileaks for all the fish! Original data can be downloaded at https://wikileaks.org/spyfiles4/customers.html .
+Thanks to Wikileaks for all the fish! Original data can be downloaded at https://wikileaks.org/spyfiles4/customers.html.
