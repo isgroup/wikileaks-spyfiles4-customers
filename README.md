@@ -3,6 +3,11 @@ wikileaks-spyfiles4-customers
 
 FinFisher Customers Analisys
 
+Total licenses price: 98'362'554
+
+## The data
+Feel free to perform your own calculations using the scripts available in this repository. For your convenience we performed a stripdown of the data resulting in the following summary.
+
 Code|Country|Product|License|Price
 ---|---|---|---|---
 CAFA6A1F||FinSpy|Base license + 30 targets + 3 agents|307200
