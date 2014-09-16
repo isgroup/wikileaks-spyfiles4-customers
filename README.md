@@ -3,8 +3,19 @@ wikileaks-spyfiles4-customers
 
 FinFisher Customers Analisys
 
-Total licenses price: 98'362'554 Euro
-
+Product|Volume
+---|---
+FinFireWire|1'203'360 Euro
+FinFly LAN|2'052'540 Euro
+FinFly Net|491'694 Euro
+FinFly USB|457'380 Euro
+FinFly Web|2'086'200 Euro
+FinIntrusion Kit|2'264'400 Euro
+FinSpy|60'918'180 Euro
+FinSpy Mobile|27'528'600 Euro
+FinTraining|12'960 Euro
+FinUSB Suite|1'347'240 Euro
+Total licenses price|98'362'554 Euro
 
 ## The data
 Feel free to perform your own calculations using the scripts available in this repository. For your convenience we performed a stripdown of the data resulting in the following summary.
