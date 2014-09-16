@@ -10,7 +10,7 @@ We took some time to measure how much our country, Italy, spent on this product 
 Well this is not the case, our prices are more or less aligned to the others and we could have saved some money with a better licensing management. For example we spent €247'800 for a FinSpy + 5 targets + 5 mobile targets + 6 agents while the Netherlands KLPD got the same product + 5 targets + 5 mobile targets + 2 agents for barely €202'200. Is €45'600 the price for 4 agents? Why do we need so many people to operate this product?
 
 ## Products VS Volume
-There is a clear winner, FinSpy, with a subtotal of more 60 Million Euro, followed by FinSpy Mobile, that places itself a little above the 27 Million Euro mark. A sigh that the Mobile is a trending market. Another consideration is that Training is dead, with an overall amount of only €12'960.
+There is a clear winner, FinSpy, with a subtotal of more 60 Million Euro, followed by FinSpy Mobile, that places itself a little above the 27 Million Euro mark. A sign that the Mobile is a trending market. Another consideration is that Training is dead, with an overall amount of only €12'960.
 
 Product|Volume
 ---|---:
