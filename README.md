@@ -1,10 +1,21 @@
 wikileaks-spyfiles4-customers
 =============================
 
-FinFisher Customers Analisys
+An Analisys of FinFisher Customers
+
+## Trivia
+
+We took some time to measure how much our country, Italy, spent on this product compared to other countries, at least to verify if we got a good deal or not from our German friends.
+
+Well this is not the case, our prices are more or less aligned to the others and we could have saved some money with a better licensing management. For example we spent €247'800 for a FinSpy + 5 targets + 5 mobile targets + 6 agents while the Netherlands KLPD got the same product + 5 targets + 5 mobile targets + 2 agents for barely €202'200. Is €45'600 the price for 4 agents? Why do we need so many people to operate this product?
+
+Another consideration is that Training is dead, with an overall amount of only €12'960.
+
+## Products VS Volume
+There is a clear winner, FinSpy, with a subtotal of more 60 Million Euro, followed by FinSpy Mobile, that places itself a little above the 27 Million Euro mark. A sigh that the Mobile is a trending market.
 
 Product|Volume
----|---
+---|---:
 FinFireWire|1'203'360 Euro
 FinFly LAN|2'052'540 Euro
 FinFly Net|491'694 Euro
