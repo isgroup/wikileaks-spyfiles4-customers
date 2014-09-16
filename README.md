@@ -3,7 +3,9 @@ wikileaks-spyfiles4-customers
 
 An Analisys of FinFisher Customers
 
-## Trivia
+We are looking for other guest analyst who are willing to improve this page! Feel free to commit changes or drop an email to ascii@ush.it
+
+## Trivia (Italy)
 
 We took some time to measure how much our country, Italy, spent on this product compared to other countries, at least to verify if we got a good deal or not from our German friends.
 
